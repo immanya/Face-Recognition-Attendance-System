@@ -1,0 +1,3 @@
+trainer.yml
+attendance.csv
+__pycache__/
